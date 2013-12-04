@@ -1,4 +1,4 @@
-/* mightygumball.js */
+
 /*
  * get the content of a JSON file using JSONP
  * update every 3 seconds.
